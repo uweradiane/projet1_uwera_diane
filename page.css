@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(193, 154, 156);
+  font-size: 2rem;
+  background-image: url(pagebackground.jpg);
+}
+legend {
+  color: blueviolet;
+}
