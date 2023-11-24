@@ -1,0 +1,28 @@
+body {
+  background-image: url(background.jpg);
+  background-color: rgb(148, 135, 60);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right: auto;
+  font-size: 1rem;
+}
+h1 {
+  margin-bottom: auto;
+  transform: matrix(10);
+  text-align: center;
+}
+h2 {
+  margin-bottom: auto;
+  transform: matrix(10);
+  text-align: center;
+}
+ul {
+  margin-bottom: auto;
+  transform: matrix(10);
+  text-align: center;
+}
+p {
+  margin-bottom: auto;
+  transform: matrix(5);
+  text-align: center;
+}
